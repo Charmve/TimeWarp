@@ -52,6 +52,9 @@ Replace the Meeting Background Free
 
 Business ✉️ email: yidazhang1@gmail.com
 
+## 🍮 Community
+<a href="https://github.com/Charmve/TimeWarp/issues" target="_blank">issues 💬</a>
+
 ## 🔗 Reference
 
 [1] https://github.com/PeterL1n/BackgroundMattingV2
@@ -66,5 +69,3 @@ This work is licensed under the [Creative Commons Attribution NonCommercial Shar
 
 Thanks for [PeterL1n](https://github.com/PeterL1n).
 
-## 🍮 Community
-<a href="https://github.com/Charmve/TimeWarp/issues" target="_blank">issues 💬</a>
