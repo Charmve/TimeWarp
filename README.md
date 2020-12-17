@@ -14,7 +14,7 @@ Replacing Real-Time the High-Resolution Meeting Background Freely
 👉 <a href="https://grail.cs.washington.edu/projects/background-matting-v2/img_results.html" target="_blank">See image results with interactive zoom-in</a>
 
 ## ✨ Features
-- <b>Real-Time</b> High-Resolution Background Matting
+- <b>Real-Time</b> High-Resolution Background Matting;
 - Replacing our background in meeting screen;
 - Replace background with <b>any size</b> photo you want;
 - IFLYTEK voice translate between Chinese and English;
