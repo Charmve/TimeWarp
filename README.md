@@ -14,6 +14,7 @@ Replace the Meeting Background Free
 👉 <a href="https://grail.cs.washington.edu/projects/background-matting-v2/img_results.html" target="_blank">See image results with interactive zoom-in</a>
 
 ## ✨ Features
+- Real-Time High-Resolution Background Matting
 - Replacing our background in meeting screen;
 - IFLYTEK voice translate between Chinese and English;
 - ...
@@ -56,3 +57,14 @@ Business ✉️ email: yidazhang1@gmail.com
 [1] https://github.com/PeterL1n/BackgroundMattingV2
 
 [2] https://github.com/GoogleChrome/chrome-extensions-samples
+
+## 📜 License
+
+This work is licensed under the [Creative Commons Attribution NonCommercial ShareAlike 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+
+## 💝 Acknowledge
+
+Thanks for [PeterL1n](https://github.com/PeterL1n).
+
+## 🍮 Community
+<a href="https://github.com/Charmve/TimeWarp/issues" target="_blank">issues 💬</a>
