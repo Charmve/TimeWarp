@@ -69,7 +69,7 @@ gantt
 Business ✉️ email: yidazhang1@gmail.com
 
 ## 🍮 Community
-<a href="https://github.com/Charmve/TimeWarp/issues" target="_blank">issues 💬</a>
+<a href="https://github.com/Charmve/TimeWarp/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/TimeWarp/issues" target="_blank">issues 💭</a>
 
 ## 🔗 Reference
 
