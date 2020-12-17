@@ -11,20 +11,21 @@ Replace the Meeting Background Free
 </div>
 
 <br>
-[See image results with interactive zoom-in](https://grail.cs.washington.edu/projects/background-matting-v2/img_results.html)
+👉 <a href="https://grail.cs.washington.edu/projects/background-matting-v2/img_results.html" target="_blank">See image results with interactive zoom-in</a>
 
 ## ✨ Features
 - Replacing our background in meeting screen;
 - IFLYTEK voice translate between Chinese and English;
-- 
+- ...
 
 ## 🎧 Beats
 
 <div align="center">
     <img src="https://github.com/PeterL1n/Matting-PyTorch/raw/master/images/teaser.gif?raw=true">
+    <br><b>demo</b> Real-Time High-Resolution Background Matting
 </div>
-<b>demo</b> Real-Time High-Resolution Background Matting
 
+<br>
 🍅 Have a <b>Try</b> https://gradio.app/g/BackgroundMattingV2
 
 
