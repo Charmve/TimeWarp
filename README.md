@@ -2,19 +2,24 @@
 Replace the Meeting Background Free
 
 
-## Features
+## ✨ Features
 - Replacing our background in meeting screen;
 - IFLYTEK voice translate between Chinese and English;
 - 
 
+## 🎧 Beats
+
+
 ## 🔨 Build
 
 
-## 🔔 Reminder
+## 🔔 Update Reminder
 
-[subscribe -->]()
+[Subscribe -->](https://github.com/Charmve/TimeWarp/edit/main/README.md)
 
-## Reference
+Business ✉️ email: yidazhang1@gmail.com
+
+## 🔗 Reference
 
 [1] https://github.com/PeterL1n/BackgroundMattingV2
 
