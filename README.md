@@ -60,7 +60,7 @@ gantt
         Plan2               :         des4, after des3, 5d
 ```
 
-- More update processing details, please click [HERE](./docs/Changelog.md) to see CHANGLOG. 
+- More update processing details, please click [HERE](./docs/Changelog.md) to see <b>CHANGLOG</b>. 
 
 ## 🔔 Update Reminder
 
