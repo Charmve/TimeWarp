@@ -33,7 +33,15 @@ Replace the Meeting Background Free
 
 ```python
 # git clone https://github.com/Charmve/TimeWarp.git
+
 # cd TimeWarp
+
+# mkdir build
+
+# make
+
+# cd build
+
 # ./TimeWarp
 ```
 
