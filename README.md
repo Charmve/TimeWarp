@@ -14,12 +14,13 @@ Replace the Meeting Background Free
 👉 <a href="https://grail.cs.washington.edu/projects/background-matting-v2/img_results.html" target="_blank">See image results with interactive zoom-in</a>
 
 ## ✨ Features
-- Real-Time High-Resolution Background Matting
+- <b>Real-Time</b> High-Resolution Background Matting
 - Replacing our background in meeting screen;
+- Replace background with <b>any size</b> photo you want;
 - IFLYTEK voice translate between Chinese and English;
 - ...
 
-## 🎧 Beats
+## 🎧 Beta
 
 <div align="center">
     <img src="https://github.com/PeterL1n/Matting-PyTorch/raw/master/images/teaser.gif?raw=true">
@@ -45,6 +46,21 @@ Replace the Meeting Background Free
 
 # ./TimeWarp
 ```
+
+## ☕ Processing
+
+```mermaid
+gantt
+        dateFormat  YYYY-MM-DD
+        title Adding GANTT diagram functionality to mermaid
+        section current task
+        Have done           :done,    des1, 2014-01-06,2014-01-08
+        Doing               :active,  des2, 2014-01-09, 3d
+        Plan1               :         des3, after des2, 5d
+        Plan2               :         des4, after des3, 5d
+```
+
+- More update processing details, please click [HERE](./docs/Changelog.md) to see CHANGLOG. 
 
 ## 🔔 Update Reminder
 
