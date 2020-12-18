@@ -1,7 +1,7 @@
 
 
 # TimeWarp
-Replacing Real-Time the High-Resolution Meeting Background Freely 
+Replacing Real-Time the High-Resolution Meeting Background Freely. 
 
 <div align="center">
     <img src="https://grail.cs.washington.edu/projects/background-matting-v2/visuals/teaser.jpg" alt="Example comparison in a video call">
@@ -17,6 +17,7 @@ Replacing Real-Time the High-Resolution Meeting Background Freely
 - <b>Real-Time</b> High-Resolution Background Matting;
 - Replacing our background in meeting screen;
 - Replace background with <b>any size</b> photo you want;
+- Cross mutil-platform, like zoom plugin, web-browser, miniprogram in PC, mobile and iPad, any platform with web service;
 - IFLYTEK voice translate between Chinese and English;
 - ...
 
