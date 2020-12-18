@@ -78,6 +78,8 @@ Business ✉️ email: yidazhang1@gmail.com
 
 [2] https://github.com/GoogleChrome/chrome-extensions-samples
 
+[3] BGMv2-webcam-plugin-linux. https://github.com/andreyryabtsev/BGMv2-webcam-plugin-linux
+
 ## 📜 License
 
 This work is licensed under the [Creative Commons Attribution NonCommercial ShareAlike 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
