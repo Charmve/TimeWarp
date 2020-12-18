@@ -18,7 +18,7 @@ Replacing Real-Time the High-Resolution Meeting Background Freely.
 - Replacing our background in meeting screen;
 - Replace background with <b>any size</b> photo you want;
 - Cross mutil-platform, like zoom plugin, web-browser, miniprogram in PC, mobile and iPad, any platform with web service;
-- IFLYTEK voice translate between Chinese and English;
+- IFLYTEK voice translation between Chinese and English;
 - ...
 
 ## 🎧 Beta
