@@ -86,5 +86,5 @@ This work is licensed under the [Creative Commons Attribution NonCommercial Shar
 
 ## 💝 Acknowledge
 
-Thanks for [PeterL1n](https://github.com/PeterL1n).
+Thanks for [PeterL1n](https://github.com/PeterL1n), et al. 
 
