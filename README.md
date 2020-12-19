@@ -25,7 +25,7 @@ Replacing Real-Time the High-Resolution Meeting Background Freely.
 
 <div align="center">
     <img src="https://github.com/PeterL1n/Matting-PyTorch/raw/master/images/teaser.gif?raw=true">
-    <br><b>demo</b> Real-Time High-Resolution Background Matting
+    <br><b>demo</b> Real-Time High-Resolution Background Matting<sup>[1]</sup>
 </div>
 
 <br>
