@@ -88,3 +88,7 @@ This work is licensed under the [Creative Commons Attribution NonCommercial Shar
 
 Thanks for [PeterL1n](https://github.com/PeterL1n), et al. 
 
+## 💖 Sponsors and Backers
+<a href="https://opencollective.com/charmve/donate" target="_blank">
+  <img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
+</a>
