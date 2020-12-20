@@ -14,7 +14,7 @@ Replacing Real-Time the High-Resolution Meeting Background Freely.
 👉 <a href="https://grail.cs.washington.edu/projects/background-matting-v2/img_results.html" target="_blank">See image results with interactive zoom-in</a>
 
 ## ✨ Features
-- <b>Real-Time</b> High-Resolution Background Matting;
+- <b>Real-Time</b> High-Resolution Background Matting, <img src="https://img.shields.io/badge/4K-30%20FPS-green" alt="4K 30fps"> &nbsp;<img src="https://img.shields.io/badge/HD-60%20FPS-blue" alt="HD 60fps">;
 - Replacing our background in meeting screen;
 - Replace background with <b>any size</b> photo you want;
 - Cross mutil-platform, like zoom plugin, web-browser, miniprogram in PC, mobile and iPad, any platform with web service;
