@@ -71,7 +71,12 @@ Business ✉️ email: yidazhang1@gmail.com
 
 ## 🍮 Community
 <a href="https://github.com/Charmve/TimeWarp/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/TimeWarp/issues" target="_blank">issues 💭</a>
-
+<!--
+## 💖 Sponsors and Backers
+<a href="https://opencollective.com/charmve/donate" target="_blank">
+  <img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
+</a>
+-->
 ## 🔗 Reference
 
 [1] https://github.com/PeterL1n/BackgroundMattingV2
@@ -87,8 +92,3 @@ This work is licensed under the [Creative Commons Attribution NonCommercial Shar
 ## 💝 Acknowledge
 
 Thanks for [PeterL1n](https://github.com/PeterL1n), et al. 
-
-## 💖 Sponsors and Backers
-<a href="https://opencollective.com/charmve/donate" target="_blank">
-  <img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
-</a>
