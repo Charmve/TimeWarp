@@ -34,7 +34,7 @@ Replacing Real-Time the High-Resolution Meeting Background Freely.
 
 ## 🔨 Build
 
-```python
+```shell
 # git clone https://github.com/Charmve/TimeWarp.git
 
 # cd TimeWarp
