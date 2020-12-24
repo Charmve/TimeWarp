@@ -85,6 +85,8 @@ Business ✉️ email: yidazhang1@gmail.com
 
 [3] BGMv2-webcam-plugin-linux. https://github.com/andreyryabtsev/BGMv2-webcam-plugin-linux
 
+[4] End-to-end Animal Image Matting. Haichao Yu, Ning Xu, Zilong Huang. https://github.com/JizhiziLi/animal-matting
+
 ## 📜 License
 
 This work is licensed under the [Creative Commons Attribution NonCommercial ShareAlike 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
