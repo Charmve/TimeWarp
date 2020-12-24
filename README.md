@@ -1,6 +1,6 @@
 
 
-# <img src="img/photo/logo_H.png" alt="TimeWarp" width="30">
+# <img src="img/photo/logo_H.png" alt="TimeWarp" width="60">
 Replacing Real-Time the High-Resolution Meeting Background Freely. 
 
 <div align="center">
