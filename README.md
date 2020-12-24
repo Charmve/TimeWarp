@@ -1,4 +1,6 @@
-# <img src="img/photo/logo_H.png" alt="TimeWarp" width="280"> <br>TimeWarp - 在线视频背景替换
+<img src="img/photo/logo_H.png" align="right" alt="" width="280"/>
+
+# TimeWarp - 在线视频背景替换
 
 Replacing Real-Time the High-Resolution Meeting Background Freely. 
 
