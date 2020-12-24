@@ -2,6 +2,7 @@
 
 Replacing Real-Time the High-Resolution Meeting Background Freely. 
 
+<br>
 <div align="center">
     <img src="https://grail.cs.washington.edu/projects/background-matting-v2/visuals/teaser.jpg" alt="Example comparison in a video call">
 </div>
