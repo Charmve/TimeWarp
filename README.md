@@ -79,13 +79,15 @@ Business ✉️ email: yidazhang1@gmail.com
 -->
 ## 🔗 Reference
 
-[1] https://github.com/PeterL1n/BackgroundMattingV2
+[1] Real-Time High-Resolution Background Matting. Shanchuan Lin*, Andrey Ryabtsev*, Soumyadip Sengupta. [GitHub](https://github.com/PeterL1n/BackgroundMattingV2) [arXiv](https://arxiv.org/pdf/2009.06613.pdf)
 
-[2] https://github.com/GoogleChrome/chrome-extensions-samples
+[2] Chrome-extensions-samples. https://github.com/GoogleChrome/chrome-extensions-samples
 
 [3] BGMv2-webcam-plugin-linux. https://github.com/andreyryabtsev/BGMv2-webcam-plugin-linux
 
-[4] End-to-end Animal Image Matting. Haichao Yu, Ning Xu, Zilong Huang. https://github.com/JizhiziLi/animal-matting
+[4] High-Resolution Deep Image Matting. Haichao Yu, Ning Xu, Zilong Huang. [GitHub] [arXiv](https://arxiv.org/pdf/2009.06613.pdf)
+
+[5] End-to-end Animal Image Matting. Jizhizi Li, Jing Zhang, Stephen J. Maybank. [GitHub](https://github.com/JizhiziLi/animal-matting) [arXiv](https://arxiv.org/pdf/2010.16188.pdf).
 
 ## 📜 License
 
