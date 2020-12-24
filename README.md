@@ -70,9 +70,9 @@ gantt
 Business ✉️ email: yidazhang1@gmail.com
 
 ## 🍮 Community
-- Github issues <a href="https://github.com/Charmve/TimeWarp/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/TimeWarp/issues" target="_blank">issues 💭</a>
+- Github <a href="https://github.com/Charmve/TimeWarp/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/TimeWarp/issues" target="_blank">issues 💭</a>
 
-- QQ Group: 697948168 password：TimeWarp
+- QQ Group: 697948168 (password：TimeWarp)
 - Email: yidazhang#gmail.com 
 
 <!--
