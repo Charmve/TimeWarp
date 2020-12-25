@@ -42,9 +42,9 @@ Replacing Real-Time the High-Resolution Meeting Background Freely.
 
 # mkdir build
 
-# make
-
 # cd build
+
+# make
 
 # ./TimeWarp
 ```
