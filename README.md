@@ -87,13 +87,20 @@ Business ✉️ email: 1144262839@qq.com
 
 [1] Real-Time High-Resolution Background Matting. Shanchuan Lin*, Andrey Ryabtsev*, Soumyadip Sengupta. [[GitHub]](https://github.com/PeterL1n/BackgroundMattingV2) [[arXiv]](https://arxiv.org/pdf/2009.06613.pdf)
 
-[2] Chrome-extensions-samples. https://github.com/GoogleChrome/chrome-extensions-samples
+[2] Background Matting: The World is Your Green Screen. Soumyadip Sengupta, Vivek Jayaram, Brian Curless, et.al. CVPR 2020. [[GitHub]](https://github.com/MadatOnLine/Background-Matting) [[arXiv]](https://arxiv.org/abs/2004.00626)
 
-[3] BGMv2-webcam-plugin-linux. https://github.com/andreyryabtsev/BGMv2-webcam-plugin-linux
+[3] High-Resolution Deep Image Matting. Haichao Yu, Ning Xu, Zilong Huang. [GitHub] [[arXiv]](https://arxiv.org/pdf/2009.06613.pdf)
 
-[4] High-Resolution Deep Image Matting. Haichao Yu, Ning Xu, Zilong Huang. [GitHub] [[arXiv]](https://arxiv.org/pdf/2009.06613.pdf)
+[4] End-to-end Animal Image Matting. Jizhizi Li, Jing Zhang, Stephen J. Maybank. [[GitHub]](https://github.com/JizhiziLi/animal-matting) [[arXiv]](https://arxiv.org/pdf/2010.16188.pdf).
 
-[5] End-to-end Animal Image Matting. Jizhizi Li, Jing Zhang, Stephen J. Maybank. [[GitHub]](https://github.com/JizhiziLi/animal-matting) [[arXiv]](https://arxiv.org/pdf/2010.16188.pdf).
+[5] BGMv2-webcam-plugin-linux. https://github.com/andreyryabtsev/BGMv2-webcam-plugin-linux
+
+[6] Chrome-extensions-samples. https://github.com/GoogleChrome/chrome-extensions-samples
+
+[7] Zoom Video Ingester. https://github.com/harvard-dce/zoom-recording-ingester
+
+[8] Zoom Recording Downloader. https://github.com/ricardorodrigues-ca/zoom-recording-downloader
+
 
 ## 📜 License
 
