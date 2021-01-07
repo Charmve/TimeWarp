@@ -54,12 +54,12 @@ Replacing Real-Time the High-Resolution Meeting Background Freely.
 ```mermaid
 gantt
         dateFormat  YYYY-MM-DD
-        title Adding GANTT diagram functionality to mermaid
-        section current task
-        Have done           :done,    des1, 2020-11-06,2020-12-20
-        Doing               :active,  des2, 2021-01-07, 3d
-        Plan1               :         des3, after des2, 5d
-        Plan2               :         des4, after des3, 5d
+        title TimeWarp Development Processing
+        section image matting
+        architecture design          :done,    des1, 2020-11-06,2020-12-20
+        video matting                :active,  des2, 2021-01-07, 3d
+        chrome extension plus        :         des3, after des2, 7d
+        video meeting architecture   :         des4, after des3, 5d
 ```
 
 - More update processing details, please click [HERE](./docs/Changelog.md) to see <b>CHANGLOG</b>. 
