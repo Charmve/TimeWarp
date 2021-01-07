@@ -56,8 +56,8 @@ gantt
         dateFormat  YYYY-MM-DD
         title Adding GANTT diagram functionality to mermaid
         section current task
-        Have done           :done,    des1, 2014-01-06,2014-01-08
-        Doing               :active,  des2, 2014-01-09, 3d
+        Have done           :done,    des1, 2020-11-06,2020-12-20
+        Doing               :active,  des2, 2021-01-07, 3d
         Plan1               :         des3, after des2, 5d
         Plan2               :         des4, after des3, 5d
 ```
