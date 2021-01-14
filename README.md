@@ -89,7 +89,7 @@ Business ✉️ email: 1144262839@qq.com
 
 [2] Background Matting: The World is Your Green Screen. Soumyadip Sengupta, Vivek Jayaram, Brian Curless, et.al. CVPR 2020. [[GitHub]](https://github.com/MadatOnLine/Background-Matting) | [[arXiv]](https://arxiv.org/abs/2004.00626)
 
-[3] MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting? [GitHub](https://github.com/ZHKKKe/MODNet) | [[arXiv]](https://arxiv.org/pdf/2011.11961.pdf)
+[3] MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting? [[GitHub](https://github.com/ZHKKKe/MODNet)] | [[arXiv]](https://arxiv.org/pdf/2011.11961.pdf)
 
 [4] High-Resolution Deep Image Matting. Haichao Yu, Ning Xu, Zilong Huang. [GitHub] | [[arXiv]](https://arxiv.org/pdf/2009.06613.pdf)
 
