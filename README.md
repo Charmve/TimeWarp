@@ -85,21 +85,23 @@ Business ✉️ email: 1144262839@qq.com
 
 ## 🔗 Reference
 
-[1] Real-Time High-Resolution Background Matting. Shanchuan Lin*, Andrey Ryabtsev*, Soumyadip Sengupta. [[GitHub]](https://github.com/PeterL1n/BackgroundMattingV2) [[arXiv]](https://arxiv.org/pdf/2012.07810.pdf) [[data]](https://grail.cs.washington.edu/projects/background-matting-v2/)
+[1] Real-Time High-Resolution Background Matting. Shanchuan Lin*, Andrey Ryabtsev*, Soumyadip Sengupta. [[GitHub]](https://github.com/PeterL1n/BackgroundMattingV2) | [[arXiv]](https://arxiv.org/pdf/2012.07810.pdf) | [[data]](https://grail.cs.washington.edu/projects/background-matting-v2/)
 
-[2] Background Matting: The World is Your Green Screen. Soumyadip Sengupta, Vivek Jayaram, Brian Curless, et.al. CVPR 2020. [[GitHub]](https://github.com/MadatOnLine/Background-Matting) [[arXiv]](https://arxiv.org/abs/2004.00626)
+[2] Background Matting: The World is Your Green Screen. Soumyadip Sengupta, Vivek Jayaram, Brian Curless, et.al. CVPR 2020. [[GitHub]](https://github.com/MadatOnLine/Background-Matting) | [[arXiv]](https://arxiv.org/abs/2004.00626)
 
-[3] High-Resolution Deep Image Matting. Haichao Yu, Ning Xu, Zilong Huang. [GitHub] [[arXiv]](https://arxiv.org/pdf/2009.06613.pdf)
+[3] MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting? [GitHub](https://github.com/ZHKKKe/MODNet) | [[arXiv]](https://arxiv.org/pdf/2011.11961.pdf)
 
-[4] End-to-end Animal Image Matting. Jizhizi Li, Jing Zhang, Stephen J. Maybank. [[GitHub]](https://github.com/JizhiziLi/animal-matting) [[arXiv]](https://arxiv.org/pdf/2010.16188.pdf).
+[4] High-Resolution Deep Image Matting. Haichao Yu, Ning Xu, Zilong Huang. [GitHub] | [[arXiv]](https://arxiv.org/pdf/2009.06613.pdf)
 
-[5] BGMv2-webcam-plugin-linux. https://github.com/andreyryabtsev/BGMv2-webcam-plugin-linux
+[5] End-to-end Animal Image Matting. Jizhizi Li, Jing Zhang, Stephen J. Maybank. [[GitHub]](https://github.com/JizhiziLi/animal-matting) | [[arXiv]](https://arxiv.org/pdf/2010.16188.pdf).
 
-[6] Chrome-extensions-samples. https://github.com/GoogleChrome/chrome-extensions-samples
+[6] BGMv2-webcam-plugin-linux. https://github.com/andreyryabtsev/BGMv2-webcam-plugin-linux
 
-[7] Zoom Video Ingester. https://github.com/harvard-dce/zoom-recording-ingester
+[7] Chrome-extensions-samples. https://github.com/GoogleChrome/chrome-extensions-samples
 
-[8] Zoom Recording Downloader. https://github.com/ricardorodrigues-ca/zoom-recording-downloader
+[8] Zoom Video Ingester. https://github.com/harvard-dce/zoom-recording-ingester
+
+[9] Zoom Recording Downloader. https://github.com/ricardorodrigues-ca/zoom-recording-downloader
 
 
 ## 📜 License
