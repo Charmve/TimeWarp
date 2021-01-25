@@ -87,7 +87,7 @@ Business ✉️ email: 1144262839@qq.com
 
 [1] Real-Time High-Resolution Background Matting. Shanchuan Lin*, Andrey Ryabtsev*, Soumyadip Sengupta. [[GitHub]](https://github.com/PeterL1n/BackgroundMattingV2) | [[arXiv]](https://arxiv.org/pdf/2012.07810.pdf) | [[data]](https://grail.cs.washington.edu/projects/background-matting-v2/)
 
-[2] Background Matting: The World is Your Green Screen. Soumyadip Sengupta, Vivek Jayaram, Brian Curless, et.al. CVPR 2020. [[GitHub]](https://github.com/MadatOnLine/Background-Matting) | [[arXiv]](https://arxiv.org/abs/2004.00626)
+[2] Background Matting: The World is Your Green Screen. Soumyadip Sengupta, Vivek Jayaram, Brian Curless, et.al. CVPR 2020. [[GitHub]](https://github.com/senguptaumd/Background-Matting) | [[arXiv]](https://arxiv.org/abs/2004.00626)
 
 [3] MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting? [[GitHub](https://github.com/ZHKKKe/MODNet)] | [[arXiv]](https://arxiv.org/pdf/2011.11961.pdf)
 
