@@ -71,7 +71,7 @@ gantt
 Business ✉️ email: 1144262839@qq.com
 
 ## 🍮 Community
-- Github <a href="https://github.com/Charmve/TimeWarp/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/TimeWarp/issues" target="_blank">issues 💭</a>
+- GitHub <a href="https://github.com/Charmve/TimeWarp/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/TimeWarp/issues" target="_blank">issues 💭</a>
 
 - QQ Group: 697948168 (password：TimeWarp)
 - Email: yidazhang1#gmail.com 
