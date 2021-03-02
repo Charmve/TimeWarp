@@ -1,4 +1,4 @@
-<img src="img/photo/logo_H.png" align="right" alt="TimeWarp" width="280"/>
+<img src="images/ui/logo_H.png" align="right" alt="TimeWarp" width="280"/>
 
 # TimeWarp - 在线视频背景替换
 Replacing Real-Time the High-Resolution Meeting Background Freely. 
@@ -44,8 +44,6 @@ Replacing Real-Time the High-Resolution Meeting Background Freely.
 * [Jan 09 2021] PhotoMatte85 dataset is now published.
 * [Dec 21 2020] We updated our project to MIT License, which permits commercial use!
 
-&nbsp;
-
 ## Download
 
 ### Model / Weights
@@ -87,7 +85,7 @@ Replacing Real-Time the High-Resolution Meeting Background Freely.
 </div>
 
 <br>
-🍅 Have a <b>Try</b> https://gradio.app/g/BackgroundMattingV2
+🍅 Have a <b>Try</b>,Web Demo by Gradio: Matting your own images from your browser. https://gradio.app/g/BackgroundMattingV2
 
 #### Scripts
 
@@ -109,13 +107,9 @@ We provide a demo application that pipes webcam video through our model and outp
 #### Web Demo
 Developers in the community has helped us build a web demo. See [Community Projects](#community-projects) section below. 
 
-&nbsp;
-
 ## Usage / Documentation
 
 You can run our model using **PyTorch**, **TorchScript**, **TensorFlow**, and **ONNX**. For detail about using our model, please check out the [Usage / Documentation](doc/model_usage.md) page.
-
-&nbsp;
 
 ## Training
 
