@@ -1,0 +1,11 @@
+#.gitignore / # DO NOT FIELT .gitignore 
+
+__pycache__/
+
+model/__pycache__/
+model/PyTorch/       # Large files failed to push
+model/TorchScript/   # Large files failed to push
+
+dataset/video/*.mp4  # Large files failed to push
+
+dataset/__pycache__/ 
