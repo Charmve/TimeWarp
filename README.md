@@ -29,7 +29,8 @@ Replacing Real-Time the High-Resolution Meeting Background Freely.
     * [Video / Image Examples](#video--image-examples)
     * [Datasets](#datasets)
 * [Build](#build)
-* [Beta](#beta)
+* [Demo](#demo)
+    * [Beta](#-beta)
     * [Scripts](#scripts)
     * [Notebooks](#notebooks)
 * [Usage / Documentation](#usage--documentation)
@@ -76,8 +77,9 @@ Replacing Real-Time the High-Resolution Meeting Background Freely.
 
 # ./TimeWarp
 ```
+## Demo
 
-## 🎧 Beta
+### 🎧 Beta
 
 <div align="center">
     <img src="https://github.com/PeterL1n/Matting-PyTorch/raw/master/images/teaser.gif?raw=true">
