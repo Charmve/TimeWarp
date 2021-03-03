@@ -64,8 +64,6 @@ Replacing Real-Time the High-Resolution Meeting Background Freely.
 
 ## 🔨 Build
 
-#### Build
-
 1. setup enviroment
 
 ```shell
@@ -75,8 +73,9 @@ Replacing Real-Time the High-Resolution Meeting Background Freely.
 # pip install -r requirements.txt
 ```
 
-2. download dataset and model
+2. download dataset and model [``Download``](#download)
 
+3. run test code
 - Video 
 ```
 # cd TimeWarp
