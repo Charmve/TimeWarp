@@ -21,22 +21,26 @@
 
 1. setup enviroment
 
-```
-pip install -r requirements.txt
+```shell
+# git clone https://github.com/Charmve/TimeWarp.git
+# cd TimeWarp
+
+# pip install -r requirements.txt
 ```
 
-2. download dataset and model
+2. download dataset and model [``Download``](#download)
 
+3. run test code
 - Video 
 ```
-cd TimeWarp
-bash test_video.sh
+# cd TimeWarp
+# bash test_video.sh
 ```
 
 - Image
 ```
-cd TimeWarp
-python3 test_image.py
+# cd TimeWarp
+# python3 test_image.py
 ```
 
 #### Scripts
