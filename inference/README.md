@@ -17,13 +17,6 @@
 
 ## Demo
 
-#### Scripts
-
-We provide several scripts in this repo for you to experiment with our model. More detailed instructions are included in the files.
-* `inference_images.py`: Perform matting on a directory of images.
-* `inference_video.py`: Perform matting on a video.
-* `inference_webcam.py`: An interactive matting demo using your webcam.
-
 #### Build
 
 1. setup enviroment
@@ -45,6 +38,13 @@ bash test_video.sh
 cd TimeWarp
 python3 test_image.py
 ```
+
+#### Scripts
+
+We provide several scripts in this repo for you to experiment with our model. More detailed instructions are included in the files.
+* `inference_images.py`: Perform matting on a directory of images.
+* `inference_video.py`: Perform matting on a video.
+* `inference_webcam.py`: An interactive matting demo using your webcam.
 
 #### Notebooks
 Additionally, you can try our notebooks in Google Colab for performing matting on images and videos.
