@@ -34,13 +34,13 @@ pip install -r requirements.txt
 
 2. download dataset and model
 
-- `Video` 
+- Video 
 ```
 cd TimeWarp
 bash test_video.sh
 ```
 
-- `Image` 
+- Image
 ```
 cd TimeWarp
 python3 test_image.py
