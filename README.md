@@ -87,7 +87,8 @@ Replacing Real-Time the High-Resolution Meeting Background Freely.
 </div>
 
 <br>
-🍅 Have a <b>Try</b>,Web Demo by Gradio: Matting your own images from your browser. https://gradio.app/g/BackgroundMattingV2
+🍅 Have a <b>Try</b>! 
+- [Web Demo by Gradio](https://gradio.app/g/BackgroundMattingV2): Matting your own images from your browser. 
 
 #### Scripts
 
