@@ -64,19 +64,31 @@ Replacing Real-Time the High-Resolution Meeting Background Freely.
 
 ## 🔨 Build
 
+#### Build
+
+1. setup enviroment
+
 ```shell
 # git clone https://github.com/Charmve/TimeWarp.git
-
 # cd TimeWarp
 
-# mkdir build
-
-# cd build
-
-# make
-
-# ./TimeWarp
+# pip install -r requirements.txt
 ```
+
+2. download dataset and model
+
+- Video 
+```
+# cd TimeWarp
+# bash test_video.sh
+```
+
+- Image
+```
+# cd TimeWarp
+# python3 test_image.py
+```
+
 ## Demo
 
 ### 🎧 Beta
