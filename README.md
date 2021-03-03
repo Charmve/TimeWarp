@@ -28,16 +28,16 @@ Replacing Real-Time the High-Resolution Meeting Background Freely.
     * [Model / Weights](#model--weights)
     * [Video / Image Examples](#video--image-examples)
     * [Datasets](#datasets)
-* [Build](#build)
-* [Demo](#demo)
+* [Build](#-build)
+* [Demo](#-demo)
     * [Beta](#-beta)
     * [Scripts](#scripts)
     * [Notebooks](#notebooks)
 * [Usage / Documentation](#usage--documentation)
 * [Training](#training)
-* [License](#license)
-* [Reference](#reference)
-* [Community](#community)
+* [License](#-license)
+* [Reference](#-reference)
+* [Community](#-community)
 
 
 ## Updates
