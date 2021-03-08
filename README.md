@@ -191,3 +191,8 @@ This work is licensed under the [Creative Commons Attribution NonCommercial Shar
 ## 💝 Acknowledge
 
 Thanks for [PeterL1n](https://github.com/PeterL1n), et al. 
+
+<br>
+<p align="center">Feel free to ask any questions, open a PR if you feel something can be done differently!</p>
+<h2 align="center">🌟Star this repository🌟</h2>
+<p align="center">Created by <a href="https://github.com/Charmve">Charmve</a> & <a href="https://github.com/MaiweiAI">maiwei.ai</a> Community | Deployed on <a href="https://gradio.app/g/BackgroundMattingV2">Gradio.app</a></p>
