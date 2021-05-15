@@ -2,10 +2,12 @@
 
 # TimeWarp - 在线视频背景替换
 Replacing Real-Time the High-Resolution Meeting Background Freely. 
-
+<!--
+https://grail.cs.washington.edu/projects/background-matting-v2/visuals/teaser.jpg
+-->
 <br>
 <div align="center">
-    <img src="https://grail.cs.washington.edu/projects/background-matting-v2/visuals/teaser.jpg" alt="Example comparison in a video call">
+    <img src="https://user-images.githubusercontent.com/29084184/118346542-f36d7900-b56e-11eb-938d-22c1e1bcce94.png" alt="Example comparison in a video call">
 </div>
 <div class="teaser-caption">
     <i>Current video conferencing tools like Zoom can take an input feed (left) and replace the background, often introducing artifacts, as shown in the center result with close-ups of hair and glasses that still have the residual of the original background. Leveraging a frame of video without the subject (far left inset), our method produces real-time, high-resolution background matting without those common artifacts. The image on the right is our result with the corresponding close-ups, screenshot from our Zoom plugin implementation.</i>
