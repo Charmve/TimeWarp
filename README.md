@@ -189,6 +189,7 @@ Business ✉️ email: yidazhang1@gmail.com
 
 [9] Zoom Recording Downloader. https://github.com/ricardorodrigues-ca/zoom-recording-downloader
 
+[10] PaperswithCode. Image Matting. https://paperswithcode.com/task/image-matting <a href="https://paperswithcode.com/task/image-matting"><img src="https://img.shields.io/badge/PaperswithCode-matting-000000.svg?logo=paperwithcode&color=lightblue" alt="PaperswithCode image-matting"></a>
 
 ## 📜 License
 
